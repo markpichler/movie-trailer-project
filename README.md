@@ -15,5 +15,5 @@ To launch the program, run the `entertainment_center.py` module.
 # Powered By
 * [Fresh Tomatoes](https://github.com/udacity/ud036_StarterCode) - Foundation code used to generate webpage 
 * [The Movie Database (TMDb)](https://www.themoviedb.org/) - API used to pull movie info 
-* [tmdbsimple](https://github.com/celiao/tmdbsimple) - TMDb API wrapper
+* [tmdbsimple](https://github.com/celiao/tmdbsimple) - TMDb API wrapper for Python
 
