@@ -6,7 +6,7 @@ To customize my project, I made some alterations to the Fresh Tomatoes code (pro
 # Setup
 This program makes use of two Python packages not included in the Python Standard Library; _tmdbsimple_ and _requests_.  To set up the environment, simply type the following in the terminal:
 ```
-pip instal -r requirements.txt
+pip install -r requirements.txt
 ```
 
 # Launching the Program
